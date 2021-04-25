@@ -19,7 +19,7 @@ const Login = () => {
 
       </div>
       <div className="login-show">
-        <h3>Login as</h3>
+        <h3>Login</h3>
         <input type="text" placeholder="Email" />
         <input type="password" placeholder="Password" />
         <input type="button" value="sign-In" />
