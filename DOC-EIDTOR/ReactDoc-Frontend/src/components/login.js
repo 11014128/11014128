@@ -26,7 +26,7 @@ const Login = () => {
 
       </div>
       <div className='login-via'>
-        <p4>Or Connect with, </p4>
+        <p4>OR </p4>
         <input type="button" value="Sign in with Google"  />
 
       </div>
