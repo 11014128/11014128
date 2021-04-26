@@ -5,7 +5,7 @@ import { auth, provider } from '../firebase';
 import { useStateValue } from '../StateProvider';
 import { actionTypes } from '../Reducer';
 import './login.css';
-import logo from './images/logo.png';
+import logo from './images/image_logo_black.png';
 
 
 const Login = () => {
